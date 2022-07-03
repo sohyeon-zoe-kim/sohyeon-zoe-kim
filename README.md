@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohyeon-zoe-kim
-- 👀 I’m interested in FullStack Develope
-- 🌱 I’m currently learning Vanila JS, React
+- 👀 I’m interested in Design System
+- 🌱 I’m currently learning Vanila JS, React, Vue
 - 📫 How to reach me -> zoework38@gmail.com
 
 <!---
